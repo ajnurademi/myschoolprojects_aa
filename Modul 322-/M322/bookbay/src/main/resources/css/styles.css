@@ -1,0 +1,54 @@
+.white-background{
+    -fx-background-color: #fff
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.round-layout{
+    -fx-border-radius: 50;
+    -fx-border-color: #d7d7d7;
+}
+
+.selected{
+    -fx-background-color: #F3F3F3;
+}
+
+.mouse-moved:hover{
+    -fx-background-color: #E4E4E4;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box, rgba(0,0,0,0), 10 , 0 , 0 ,10);
+    -fx-background-color: #425163;
+}
+
+.btn-addshelf{
+    -fx-background-color: #004fff;
+}
+
+.vtrkl-book{
+    -fx-background-color: white;
+    -fx-border-radius: 500;
+}
+
+.sign-in-btn{
+    -fx-background-color: #000000;
+}
+
+#signInButton:hover{
+    -fx-background-color: #4b525b;
+}
+
+#signUpButton:hover{
+    -fx-background-color: #888888;
+}
+
+.sign-up-btn{
+    -fx-background-color: #EEEEEE;
+}
+
+.btn-remove{
+    -fx-background-color: rgb(224, 17, 17);
+}
